@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+div:focus{
+  /* border: 1px solid green; */
+  /* background-color: lightgray; */
+  border: 2px solid blue
+}
